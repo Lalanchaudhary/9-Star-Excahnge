@@ -7,7 +7,7 @@
 body{
     height:min-content;
     width: 100%;
-    position: relative;
+    /* position: relative; */
     background-image: url("bg2.jpg");
     background-size: cover;
 }
@@ -33,6 +33,7 @@ a
     width: 100%;
     display: flex;
     justify-content:center ;
+    position: relative;
  
 }
 .inner 
@@ -118,7 +119,7 @@ animation-timing-function: ease-in;
     width: 130px;
     /* border-radius: 50%; */
     position:absolute;
-    top: 63px;
+    top: 15px;
     left:0px;
 }
 
