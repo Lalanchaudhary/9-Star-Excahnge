@@ -97,11 +97,11 @@ color: black;
 
 .image2
 {
-    height: 80px;
-    width: 80px;
+    height: 90px;
+    width: 90px;
     border-radius: 50%;
     position:absolute;
-    top: 60px;
+    top: 70px;
     left:40px;
 }
 
